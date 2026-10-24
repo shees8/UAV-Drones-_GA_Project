@@ -1,0 +1,22 @@
+{
+  "best_fitness": 106.29755606501273,
+  "metrics": {
+    "coverage": 6,
+    "coverage_score": 9.0,
+    "energy": 136.15687584223738,
+    "flight_time": 123.79484318596724,
+    "hazard_exposure": 0.0,
+    "no_fly_violations": 0,
+    "range_violation": 0.0,
+    "distance": 108.49965224901833
+  },
+  "parameters": {
+    "grid_size": 30,
+    "drones": 3,
+    "population_size": 60,
+    "generations": 100,
+    "mutation_rate": 0.12,
+    "tournament_size": 4,
+    "elite_count": 3
+  }
+}
